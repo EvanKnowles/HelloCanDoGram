@@ -1,7 +1,7 @@
 LaunchCanDoGram - Hello World Edition
 ----
 
-This is a super minimal example of a bot that has two commands. 
+This is a super minimal example of a bot that has two commands. To use this bot, you'll need the actual CanDoGram artifacts, which you can find [here](https://github.com/EvanKnowles/CanDoGram).
 
 The `/hello` command takes no parameters and greets the user politely, then as a bonus sends the user a picture of a cat.
 
